@@ -1,0 +1,1 @@
+{"version":3,"file":"productService.js","sourceRoot":"","sources":["../../service/productService.ts"],"names":[],"mappings":";;AAAA,8CAAyC;AAEzC,MAAM,cAAc;IAApB;QACI,eAAU,GAAG,KAAK,IAAI,EAAE;YACjB,OAAO,MAAM,iBAAO,CAAC,IAAI,EAAE,CAAA;QAClC,CAAC,CAAA;IACL,CAAC;CAAA;AACD,kBAAe,IAAI,cAAc,EAAE,CAAA"}
